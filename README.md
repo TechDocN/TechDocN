@@ -17,4 +17,4 @@ Hello
     - 1 Timex/Sinclair 1000 (with 16K memory upgrade cardtridge)
     - 1 Tandy 1000EX (with 640K memory upgrade and CF mass storage 3 in 1 Expansion Card*)
 
- *These items were purchased/added by me, and most are still available online.
+ *These modern upgrades were added by me. Most are still available because of the admirable work of so many in the vintage and retro computing communities.
