@@ -1,6 +1,18 @@
 Hello
 - I am a physician and I work in the MedTech industry.
 - In my spare time I am a serious tinkerer.
-- I’m interested in electronics, microcontrollers, SBCs, robotics, coding, 3D printing and retro-computing.
-- I’m currently learning about Fujinet for the CoCo.
-- My current retro-computing collection: 1 CoCo1, 3 CoCo2s, 1 CoCo3, 1 TRS-80 Model 100, 1 Tandy Model 102, 1 Timex/Sinclair 100, and I am in the market for a Tandy 1000EX.
+- I’m interested in electronics, microcontrollers, SBCs, robotics, coding, 3D printing and vintage/retro-computing.
+- I’m currently restoring an original Commodore PET-2001.
+- My current retro-computing collection:
+    - 1 Commodore PET-2001
+    - 1 TRS-80 Model 1
+    - 1 Apple II+
+    - 2 TRS-80 Color Computer Model 1s
+    - 3 TRS-80 Color Computer Model 2s
+    - 1 Tandy Color Computer Model 3
+    - 1 TRS-80 MC-10 Micro Color Computer
+    - 1 TRS-80 Model 100
+    - 1 Tandy Model 102
+    - 1 Tandy Model 200
+    - 1 Timex/Sinclair 1000
+    - 1 Tandy 1000EX.
