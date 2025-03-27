@@ -18,4 +18,5 @@ Hello
     - 1 Tandy 1000EX (with 640K memory upgrade and CF mass storage 3 in 1 Expansion Card*)
 
  *These modern upgrades were added by me. Most are still available because of the admirable work of so many in the vintage and retro computing communities.
+ 
  **All of these vintage computers are in perfect, or near perfect working condition, with the exception of the Commodore PET. It is being actively restored and is not currently operational.
