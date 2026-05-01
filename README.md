@@ -7,14 +7,14 @@ Hello
     - 1 Commodore PET 2001-8
     - 1 TRS-80 Model 1 (16K Level II, with Quinnterface** upgrade to 48K and FreHD** SD card mass storage device)
     - 1 Apple II+ (16K upgraded to 48K + 16K on language card = 64K, one 5.25" floppy and an XDrive** SD/flash mass storage)
-    - 2 TRS-80 Color Computer Model 1s (one 16K, one 64K with white case and "melted" keyboard)
-    - 3 TRS-80 Color Computer Model 2s (all three 64K, one w/"deluxe" keyboard and upgraded VDG, two 5.25" floppy drives, two CoCoSDC SD mass storage**)
+    - 2 TRS-80 Color Computer 1s (one 16K, one 64K with white case and "melted" keyboard)
+    - 3 TRS-80 Color Computer 2s (all three 64K, one w/"deluxe" keyboard and upgraded VDG, two 5.25" floppy drives, three CoCoSDC SD mass storage**)
     - 1 Tandy Color Computer Model 3 (128K upgraded to 512K**)
-    - 1 TRS-80 MC-10 Micro Color Computer (with OEM 16K memory upgrade cardtridge)
+    - 1 TRS-80 MC-10 Micro Color Computer (with 16K memory upgrade cardtridge)
     - 1 TRS-80 Model 100
     - 1 Tandy Model 102 (with REX#** flash memory mass storage)
     - 1 Tandy Model 200 (with REX#** flash memory mass storage)
-    - 1 Timex/Sinclair 1000 (with OEM 16K memory upgrade cardtridge)
+    - 1 Timex/Sinclair 1000 (with 16K memory upgrade cardtridge)
     - 1 Tandy 1000EX (with 640K memory upgrade and CF mass storage 3in1 Expansion Card**)
  
 *All of these vintage computers are excellent working condition, with the exception of the Commodore PET. It is in the project queue to be restored and is not currently operational.
