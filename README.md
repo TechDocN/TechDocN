@@ -2,8 +2,8 @@ Hello
 - I am a physician and I work in the MedTech industry.
 - In my spare time I am a serious tinkerer.
 - I’m interested in electronics, microcontrollers, SBCs, robotics, coding, 3D printing and vintage/retro computing.
-- I’m currently restoring an original Commodore PET 2001-8.
-- My current vintage computing collection* (as of 27 March 2026):
+- I’m preparing to restore an original Commodore PET 2001-8.
+- My current vintage computing collection* (as of 01 May 2026):
     - 1 Commodore PET 2001-8
     - 1 TRS-80 Model 1 (16K Level II, with Quinnterface** upgrade to 48K and FreHD** SD card mass storage device)
     - 1 Apple II+ (16K upgraded to 48K + 16K on language card = 64K, one 5.25" floppy and an XDrive** SD/flash mass storage)
@@ -17,6 +17,6 @@ Hello
     - 1 Timex/Sinclair 1000 (with OEM 16K memory upgrade cardtridge)
     - 1 Tandy 1000EX (with 640K memory upgrade and CF mass storage 3in1 Expansion Card**)
  
-*All of these vintage computers are in perfect, or near perfect working condition, with the exception of the Commodore PET. It is being actively restored and is not currently operational.
+*All of these vintage computers are excellent working condition, with the exception of the Commodore PET. It is in the project queue to be restored and is not currently operational.
 
 **These modern upgrades were added by me. Most are still available because of the admirable work of so many in the vintage and retro computing communities.
